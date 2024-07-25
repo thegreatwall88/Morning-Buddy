@@ -1,0 +1,15 @@
+{
+  "name": "morning-buddy",
+  "version": "1.0.0",
+  "description": "Build a Morning Buddy tool - You can ask if for a \"pick me up\" and it will tell you a joke. Ask it \"what's the weather like?\" and it will fetch your local weather details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4"
+  }
+}
